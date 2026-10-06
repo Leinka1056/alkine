@@ -54,6 +54,8 @@ recording (didnt count time)
 ![Screenshot from 2026-10-05 23-58-55](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/32W6I9TEQLrd7TpDxb0Wz6JR8YCTB2qd/63601aa169b7c11b49b65055446ff276020af4cf2f38362dc6c9d933befba5e4.png)
 editing (didnt count time)
 
+.
+
 yes i wrote the script on a typewriter
 
 .
