@@ -10,43 +10,49 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 2 | 8h | 3 |
+| Week 1 | Tier 2 | 5h | 3 |
 
 ## Contents
 
-1. [2026-10-05 — # today;](#2026-10-05-today)
+1. [2026-10-05 — # prep work:](#2026-10-05-prep-work)
 2. [2026-10-05 — # Researching esp32 options](#2026-10-05-researching-esp32-options)
 3. [2026-10-06 — # Finding info and kicad files](#2026-10-06-finding-info-and-kicad-files)
 
 ## Design
 
-### 2026-10-05 — # today;
+### 2026-10-05 — # prep work:
 
-**4h**
+**1h**
 
-# today;
+# prep work:
+## accomplished:
 (technically yesterday)
-- Made the intro video.
+- Made the intro video. (didnt count time)
 This includes a script (image below), background footage, recording and editing.
 - installed the needed apps.
-Some random audio recorder for the video, kdenlive for the video editing, kicad for pcb making,which i will do tomorrow*.
+Some random audio recorder (didnt count time) for the video, kdenlive (didnt count time) for the video editing, kicad for pcb making,which i will do tomorrow*.
 
 Ive never used kden live before ;-;
 Cant wait to use another app ive never used before tomorrow* (kicad)
 
 *ik its technically today but...
 
+## time/process breakdown:
+
+planning
+(no image)
+
 ![IMG_4269](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/32W6I9TEQLrd7TpDxb0Wz6JR8YCTB2qd/19bc02f60aa87a748a25ee88bd2cc825291a614743ac6b439279219b8d308a38.jpeg)
-writing
+writing (didnt count time)
 
 ![IMG_4272](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/32W6I9TEQLrd7TpDxb0Wz6JR8YCTB2qd/affd93f0367e761189c0435318995a42c65361c0985964c6b368d23f411661f4.jpg)
-reading
+reading (didnt count time)
 
 ![Screenshot from 2026-10-06 00-02-06](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/32W6I9TEQLrd7TpDxb0Wz6JR8YCTB2qd/24a071ead1c3a36ea2df033ee84efd70f1857870dca921fdcc04ec956d2c7f2b.png)
-recording
+recording (didnt count time)
 
 ![Screenshot from 2026-10-05 23-58-55](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/32W6I9TEQLrd7TpDxb0Wz6JR8YCTB2qd/63601aa169b7c11b49b65055446ff276020af4cf2f38362dc6c9d933befba5e4.png)
-editing
+editing (didnt count time)
 
 yes i wrote the script on a typewriter
 
