@@ -14343,7 +14343,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f2c2edaf-7df2-4c2a-8815-f21da1c6f864")
-		(property "Reference" "ESP32-C6-WROOM-1U"
+		(property "Reference" "ESP32-C6-WROOM-1U1"
 			(at 193.9133 22.86 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14488,7 +14488,7 @@
 		(instances
 			(project "1"
 				(path "/8a57ca9b-e87d-4c78-8cca-6754fc21c15c"
-					(reference "ESP32-C6-WROOM-1U")
+					(reference "ESP32-C6-WROOM-1U1")
 					(unit 1)
 				)
 			)
