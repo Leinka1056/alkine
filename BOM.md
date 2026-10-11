@@ -33,10 +33,9 @@
 | [SM1206HC](https://www.digikey.co.uk/en/products/detail/bivar-inc/SM1206HC/3095545?srsltid=AU7gw4V7kVWeqjWnSeWFJC04UK4zVJf3vVRa8wdMgvyTcr7_GgmuRnkR) | pwr flow led | 5 | $0.65 | $3.25 | [digikey](https://www.digikey.co.uk/en/products/detail/bivar-inc/SM1206HC/3095545?srsltid=AU7gw4V7kVWeqjWnSeWFJC04UK4zVJf3vVRa8wdMgvyTcr7_GgmuRnkR) |
 | [XL-5050RGBC-WS2812B](https://www.digikey.co.uk/en/products/detail/xinglight/XL-5050RGBC-WS2812B/25673106) | argb led(s) | 10 | $0.11 | $1.10 | [digikey](https://www.digikey.co.uk/en/products/detail/xinglight/XL-5050RGBC-WS2812B/25673106) |
 | [1N4148W](https://www.digikey.co.uk/en/products/detail/smc-diode-solutions/1N4148W/6022450?srsltid=AU7gw4U82e1ddp2EtqS5bXKUIbhXvyu1fVS7ZW96j0wDqHN1P3uPNWKj) | diode(s) | 5 | $0.15 | $0.75 | [digikey](https://www.digikey.co.uk/en/products/detail/smc-diode-solutions/1N4148W/6022450?srsltid=AU7gw4U82e1ddp2EtqS5bXKUIbhXvyu1fVS7ZW96j0wDqHN1P3uPNWKj) |
-| [S2B-PH-K-S](https://www.digikey.co.uk/en/products/detail/jst-sales-america-inc/S2B-PH-K-S/926626?srsltid=AU7gw4XQpLI8GSnaUnK7S9a5eKOZl_2mFeV1FEZ4t5LALn_kgGiBhxHW) | bat connector | 5 | $0.12 | $0.60 | [digikey](https://www.digikey.co.uk/en/products/detail/jst-sales-america-inc/S2B-PH-K-S/926626?srsltid=AU7gw4XQpLI8GSnaUnK7S9a5eKOZl_2mFeV1FEZ4t5LALn_kgGiBhxHW) |
 | [SM04B-SRSS-TB](https://www.digikey.co.uk/en/products/detail/jst-sales-america-inc/SM04B-SRSS-TB/926710?srsltid=AU7gw4V0BkM9B4mMtshqGfZUj5A7FblHJhKS9owSHU3lFDRCrxMfwTJs) | qwiic connectors | 15 | $0.50 | $7.50 | [digikey](https://www.digikey.co.uk/en/products/detail/jst-sales-america-inc/SM04B-SRSS-TB/926710?srsltid=AU7gw4V0BkM9B4mMtshqGfZUj5A7FblHJhKS9owSHU3lFDRCrxMfwTJs) |
-| **Parts subtotal** | — | — | — | **$106.85** | — |
+| **Parts subtotal** | — | — | — | **$106.25** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$106.85** | — |
+| **Total** | — | — | — | **$106.25** | — |
 
-**$6.85 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$6.25 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
