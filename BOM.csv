@@ -1,30 +1,27 @@
-"Reference","Qty","Value","Footprint"
-"C1","1","10","Capacitor_Tantalum_SMD:CP_EIA-3216-10_Kemet-I_HandSolder"
-"C2,C3,C4","3","4.7","Capacitor_Tantalum_SMD:CP_EIA-3216-10_Kemet-I_HandSolder"
-"C5","1","22","Capacitor_Tantalum_SMD:CP_EIA-3216-10_Kemet-I_HandSolder"
-"C6","1","0.1","Capacitor_Tantalum_SMD:CP_EIA-3216-10_Kemet-I_HandSolder"
-"D1","1","LED","LED_SMD:LED_RGB_Wuerth-PLCC4_3.2x2.8mm_150141M173100"
-"D2","1","LED","LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
-"D3,D5","2","WS2812B","LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
-"D4","1","1N4148W","Diode_SMD:D_SOD-123"
-"ESP32-C6-WROOM-1U?","1","ESP32-C6-WROOM-1","PCM_Espressif:ESP32-C6-WROOM-1U"
-"J1","1","Bat","Connector_JST:JST_PH_S2B-PH-K_1x02_P2.00mm_Horizontal"
-"J2,J9,J10","3","Conn_01x04_Pin","Connector_JST:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal"
-"J3","1","LED_pins","Connector_PinHeader_1.00mm:PinHeader_1x03_P1.00mm_Horizontal"
-"J4","1","USB_C","Connector_USB:USB_C_Receptacle_GCT_USB4085"
-"J5","1","Conn_GPIO","Connector_PinHeader_2.54mm:PinHeader_1x25_P2.54mm_Horizontal"
-"J6","1","Conn_GND","Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Horizontal"
-"J7","1","Conn_3V3","Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Horizontal"
-"J8","1","Conn_JTAG","Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Horizontal"
-"J11","1","TH","Connector_JST:JST_PH_S2B-PH-K_1x02_P2.00mm_Horizontal"
-"R1,R2,R3","3","470","Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
-"R4","1","2k","Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
-"R5,R7","2","15k","Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
-"R6,R11","2","10k","Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
-"R8","1","1k","Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
-"R9,R10","2","5.1k","Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
-"R12","1","3.3k","Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
-"SW1,SW2","2","SW_Push","Button_Switch_SMD:SW_SPST_TS-1088-xR025"
-"SW3","1","SW_DPDT_x2","Button_Switch_THT:SW_CK_JS202011AQN_DPDT_Angled"
-"U2","1","MCP73871","Package_DFN_QFN:QFN-20-1EP_4x4mm_P0.5mm_EP2.5x2.5mm"
-"U3","1","XC6210B332MR","Package_TO_SOT_SMD:SOT-23-5_HandSoldering"
+Item,Qty,Supplier,Cost/item,Total Cost,link
+ESP32-C6-WROOM-1U,2,digikey,$5.57,$11.14,https://www.digikey.co.uk/en/products/detail/espressif-systems/ESP32-C6-WROOM-1U-N8/20685870
+usb c receptacle,2,digikey,$0.91,$1.82,https://www.digikey.co.uk/en/products/detail/gct/USB4085-GF-A/9859662?srsltid=AU7gw4WZX4hVUJ9hGPJnBnNQLeVIP67e8jnYj79Oq-IVhtCDlb7Azege
+XC6210B332MR,2,digikey,$0.78,$1.56,https://www.digikey.co.uk/en/products/detail/torex-semiconductor-ltd/XC6210B332MR-G/2138119?srsltid=AU7gw4VFZvOnkmEtap__OV3M_-bEELhea4WttdcxAkU57xv_axCi3hNm
+MCP73871,2,digikey,$2.41,$4.82,https://www.digikey.co.uk/en/products/detail/microchip-technology/MCP73871-2CCI-ML/1680971?srsltid=AU7gw4WCBwpCrlMF3q28zpJqLp-44P6ZkgQTLKgX_SvpAYZxtTKd0DTh
+JS202011AQN,2,digikey,$0.83,$1.66,https://www.digikey.co.uk/en/products/detail/c-k/JS202011AQN/1640096?srsltid=AU7gw4X2J2QaS2GfCRa6ASaeUjnBIqaQ0YvjG3AyxlJWCC_YgqKYZfFb
+CRCW12063K30FKEA,2,digikey,$0.11,$0.22,https://www.digikey.co.uk/en/products/detail/vishay-dale/CRCW12063K30FKEA/1176701
+CRCW12065K10FKEA,4,digikey,$0.11,$0.44,https://www.digikey.co.uk/en/products/detail/vishay-dale/CRCW12065K10FKEA/1176724
+CRCW12061K00FKEA,2,digikey,$0.11,$0.22,https://www.digikey.co.uk/en/products/detail/vishay-dale/CRCW12061K00FKEA/1176644
+CRCW120610K0FKEA,4,digikey,$0.11,$0.44,https://www.digikey.co.uk/en/products/detail/vishay-dale/CRCW120610K0FKEA/1176758
+CRCW120615K0FKEA,4,digikey,$0.11,$0.44,https://www.digikey.co.uk/en/products/detail/vishay-dale/CRCW120615K0FKEA/1176776
+CRCW12062K00FKEA,2,digikey,$0.11,$0.22,https://www.digikey.co.uk/en/products/detail/vishay-dale/CRCW12062K00FKEA/1176676
+CRCW1206470RFKEA,6,digikey,$0.11,$0.66,https://www.digikey.co.uk/en/products/detail/vishay-dale/CRCW1206470RFKEA/1176606
+298D106X0025A2T,2,digikey,$1.76,$3.52,https://www.digikey.co.uk/en/products/detail/vishay-sprague/298D106X0025A2T/21707090
+T491A475M016AT,6,digikey,$0.64,$3.84,https://www.digikey.co.uk/en/products/detail/kemet/T491A475M016AT/818560
+T491A226K010AT,2,digikey,$0.97,$1.94,https://www.digikey.co.uk/en/products/detail/kemet/T491A226K010AT/2336197
+T491A104K035AT,2,digikey,$0.70,$1.40,https://www.digikey.co.uk/en/products/detail/kemet/T491A104K035AT/818537
+150141M173100,2,digikey,$0.50,$1.00,https://www.digikey.co.uk/en/products/detail/w%C3%BCrth-elektronik/150141M173100/4489960?srsltid=AU7gw4WDQFhHLDmhEOP7ky2Lb1OwfdqoBN3lteAW3zpPOIbm54mYHPnF
+SM1206HC,2,digikey,$0.65,$1.30,https://www.digikey.co.uk/en/products/detail/bivar-inc/SM1206HC/3095545?srsltid=AU7gw4V7kVWeqjWnSeWFJC04UK4zVJf3vVRa8wdMgvyTcr7_GgmuRnkR
+1N4148W,2,digikey,$0.15,$0.30,https://www.digikey.co.uk/en/products/detail/smc-diode-solutions/1N4148W/6022450?srsltid=AU7gw4U82e1ddp2EtqS5bXKUIbhXvyu1fVS7ZW96j0wDqHN1P3uPNWKj
+SM04B-SRSS-TB,6,digikey,$0.50,$3.00,https://www.digikey.co.uk/en/products/detail/jst-sales-america-inc/SM04B-SRSS-TB/926710?srsltid=AU7gw4V0BkM9B4mMtshqGfZUj5A7FblHJhKS9owSHU3lFDRCrxMfwTJs
+WS2812B,4,LCSC,$0.52,$2.08,https://www.lcsc.com/product-detail/C114586.html
+S2B-PH-K-S,2,digikey,$0.12,$0.24,https://www.digikey.co.uk/en/products/detail/jst-sales-america-inc/S2B-PH-K-S/926626?srsltid=AU7gw4VFpHj4HgFGdKWxiH1kzqqzihiDPegLVplq7MVySN8PMaGVRMHd
+XUNPU TS-1088R-02026,4,LCSC,$0.05,$0.20,https://www.lcsc.com/product-detail/C455280.html
+0022052051,4,digikey,$0.37,$1.48,https://www.digikey.co.uk/en/products/detail/molex/0022052051/26651
+0022052091,6,digikey,$0.79,$4.74,https://www.digikey.co.uk/en/products/detail/molex/0022052091/26659
+Estimated total shipping,1,,,$0.00,

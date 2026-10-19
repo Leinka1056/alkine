@@ -4,7 +4,7 @@
 <!-- Generated: 2026-10-10T15:58:03.343Z -->
 
 > [!NOTE]
-> This devlog is mirrored from [Half Life](https://halflife.hackclub.com). Editing it here will not change the platform's copy, and the next sync overwrites this file.
+> This devlog is mirrored from [Half Life](https://halflife.hackclub.com) – [open the project](https://halflife.hackclub.com/projects/cmuv02fvs0c1101sm7iym0ofc). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
 > my first complicated pcb, i want to make an esp32 based dev board for many future projects i am thinking up.
 
