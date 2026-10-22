@@ -1,12 +1,12 @@
-This is v1 of Alkine, my first attempt at a custom dev board. Alkine is meant to serve as a starting point for a variety of other projects i have/will think of.
+This is Alkine (currently only v1), my first attempt at a custom dev board. Alkine is meant to serve as a starting point for a variety of other projects i have/will think of.
 (it is currently a PROTOTYPE, v2 will be actually good)
 
-Front (render):
+v1 front (render):
 
 <img width="853" height="629" alt="pcb front" src="https://github.com/user-attachments/assets/ca6476eb-f7b7-469d-a73b-663226a93bb9" />
 
 
-Back (render):
+v1 back (render):
 
 <img width="889" height="552" alt="pcb back" src="https://github.com/user-attachments/assets/9ac9a5f6-d9c3-4fc0-b417-bff0db493212" />
 
