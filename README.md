@@ -1,4 +1,5 @@
 This is v1 of Alkine, my first attempt at a custom dev board. Alkine is meant to serve as a starting point for a variety of other projects i have/will think of.
+(it is currently a PROTOTYPE, v2 will be actually good)
 
 Front (render):
 
